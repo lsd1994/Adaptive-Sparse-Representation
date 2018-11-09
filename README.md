@@ -5,6 +5,6 @@ Adaptive sparse representation based on visual saliency for image compression.Fo
 
 I'm not ensure the correctness of this implementation,and the dictionary isn't trained as described in the paper.So please use carefully.
 
-To use this code,you should unzip the gbvs.zip file first and install gbvs,more details in http://www.klab.caltech.edu/~harel/share/gbvs.php
+To use this code,you should unzip the gbvs.rar file first and install gbvs,more details in http://www.klab.caltech.edu/~harel/share/gbvs.php
 
 If you have any questions or find mistakes on this code,please contact my:lsd1994@163.com
